@@ -8,6 +8,8 @@
 
 ## Live Demo
 
+[API Link](https://course-f2wj.onrender.com/api/courses)
+
 ## Getting Started
 
 To get a local copy up and running follow these steps:
@@ -37,7 +39,7 @@ npm start
 
 ```
 
-Then open a web page and go to [port 3000 on your local machine.](http://localhost:3000)
+Then use POSTMAN to test endpoints [port 3000 on your local machine.](http://localhost:3000/api/courses/) or consume endpoints from your application.
 
 ## Deployment
 
@@ -69,8 +71,6 @@ Start by:
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- donchia@ymail.com
 
 ## 📝 License
 
