@@ -72,8 +72,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- donchia@ymail.com
-
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
