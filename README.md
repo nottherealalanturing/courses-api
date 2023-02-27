@@ -8,6 +8,8 @@
 
 ## Live Demo
 
+(API Link)[https://course-f2wj.onrender.com/api/courses]
+
 ## Getting Started
 
 To get a local copy up and running follow these steps:
