@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-(API Link)[https://course-f2wj.onrender.com/api/courses]
+[API Link](https://course-f2wj.onrender.com/api/courses)
 
 ## Getting Started
 
