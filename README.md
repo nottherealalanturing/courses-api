@@ -39,7 +39,7 @@ npm start
 
 ```
 
-Then open a web page and go to [port 3000 on your local machine.](http://localhost:3000)
+Then use POSTMAN to test endpoints [port 3000 on your local machine.](http://localhost:3000/api/courses/) or consume endpoints from your application.
 
 ## Deployment
 
